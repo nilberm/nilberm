@@ -1,5 +1,8 @@
 ## Hello! I'm Nilber Mota
 
+
+Estudo programação desdo começo de 2021 e nunca pensei que fosse achar uma área que me indetificasse tanto. Gosto muito de aprender e de resolver desafios, estudo por conta propria mas estou começando uma faculdade na Brigham Young University - Idaho Online em Applied Technology
+
 <div align="center">
   <a href="https://github.com/nilberm">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=nilberm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
