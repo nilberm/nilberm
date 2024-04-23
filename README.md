@@ -1,7 +1,12 @@
 ## Hello! I'm Nilber Mota
 
 
-Estudo programação desdo começo de 2021 e nunca pensei que fosse achar uma área que me indetificasse tanto. Gosto muito de aprender e de resolver desafios, trabalho na área a 2 anos e estudo Applied Technology na Brigham Young University - Idaho 
+Olá! Sou Nilber Mota, um entusiasta da programação com dois anos de experiência, apaixonado por resolver desafios e criar soluções inovadoras.
+Contribuir no desenvolvimento de um site completo para gerenciamento de eventos e atualmente trabalho em um avançado sistema de workflow com recursos de assinatura de documentos validados por blockchain.
+Especializado em JavaScript, com experiência em React, Next.js, Nest.js e C#, lidero o desenvolvimento frontend em minha equipe atual.
+Destaco minha habilidade em transformar ideias inovadoras em soluções funcionais, como a implementação da assinatura de documentos PDF personalizados em nosso sistema.
+Mantenho-me atualizado com leituras, cursos e vídeos, e abordo problemas complexos de forma simplificada, valorizando testes rigorosos para garantir a robustez das aplicações.
+Estou aberto a novas oportunidades que me permitam continuar aprendendo e crescendo profissionalmente.
 
 <div align="center">
   <a href="https://github.com/nilberm">
