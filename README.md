@@ -1,7 +1,7 @@
 ## Hello! I'm Nilber Mota
 
 
-Estudo programação desdo começo de 2021 e nunca pensei que fosse achar uma área que me indetificasse tanto. Gosto muito de aprender e de resolver desafios, estudo por conta propria mas estou começando uma faculdade na Brigham Young University - Idaho Online em Applied Technology
+Estudo programação desdo começo de 2021 e nunca pensei que fosse achar uma área que me indetificasse tanto. Gosto muito de aprender e de resolver desafios, trabalho na área a 2 anos e estudo Applied Technology na Brigham Young University - Idaho 
 
 <div align="center">
   <a href="https://github.com/nilberm">
