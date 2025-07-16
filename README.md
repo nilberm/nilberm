@@ -5,7 +5,7 @@ Working professionally with JavaScript and TypeScript since 2022, I have contrib
 
 I'm passionate about transforming ideas into functional and high-performance applications. My expertise includes leading frontend development, improving system architecture, and implementing innovative solutions such as personalized PDF signing and dynamic kanban-based process management.
 
-*Technical Abilities:*
+**Technical Abilities:**
 • JavaScript | TypeScript
 • React.js | Next.js
 • Node.js | NestJS
@@ -15,13 +15,13 @@ I'm passionate about transforming ideas into functional and high-performance app
 • RESTful APIs | GraphQL
 • Agile methodologies (Scrum/Kanban)
 
-*Tools:*
+**Tools:**
 • Visual Studio Code
 • Git | GitHub | GitLab
 • Jira | Trello
 • Figma
 
-*Personal Qualities:*
+**Personal Qualities:**
 • Problem-solver mindset
 • Fast learner and adaptable
 • Team player with strong collaboration skills
